@@ -191,8 +191,8 @@ export const DEFAULT_MODELS = [
     available: true,
     provider: {
       id: "anthropic",
-      providerName: "Anthropic",
-      providerType: "anthropic",
+      providerName: "OpenAI",
+      providerType: "openai",
     },
   })),
 ] as const;
