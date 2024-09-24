@@ -291,8 +291,8 @@ const openaiModels = [
   "gpt-4-turbo-2024-04-09",
   "gpt-4-1106-preview",
   "dall-e-3",
-  "o1-mini",
-  "o1-preview",
+  "o1-preview-2024-09-12",
+  "o1-mini-2024-09-12",
 ];
 
 const googleModels = [
